@@ -1,4 +1,4 @@
-# Escaping the Maze
+# Escaping the Maze by a Robot
 def turn_right():
   turn_left()
   turn_left()
