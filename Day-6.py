@@ -1,4 +1,4 @@
-# Escaping the Maze by a Robot
+# Escaping the Maze by a Robot using functions concept
 def turn_right():
   turn_left()
   turn_left()
